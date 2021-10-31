@@ -1,2 +1,3 @@
-# skeet-lobby-color-changer
-Swaps your team color in lobbies
+**Preview:**
+
+![Preview](https://i.imgur.com/SXWASD8.gif)
